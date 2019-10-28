@@ -1,0 +1,33 @@
+#container{
+    width: 1024px;
+    margin: auto;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+b{
+    font-size: 90%;
+    position: absolute;
+    
+}
+form{
+    display: inline-block;
+}
+img{
+    width: 50%;
+    height: 2%;
+    display: inline;
+}
+#sct{
+grid-template-columns: 2;
+grid-template-rows: 1;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width:1024px;
+    margin:auto;
+    border:1px solid;
+}
