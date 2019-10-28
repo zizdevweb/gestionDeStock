@@ -2,33 +2,31 @@
     width: 1024px;
     margin: auto;
     border: 1px solid;
+
+}
+.menu-wrapper{
+
     display: flex;
     justify-content: space-between;
 }
-b{
-    font-size: 90%;
-    position: absolute;
+
+#logo{
+
+    font-size: xx-large;
+
+    font-style: normal;
     
+    font-family: inherit
 }
-form{
-    display: inline-block;
+.logo {
+
+    text-transform: capitalize;
+
 }
-img{
-    width: 50%;
-    height: 2%;
-    display: inline;
-}
-#sct{
-grid-template-columns: 2;
-grid-template-rows: 1;
-}
+
+
 body{
     margin: 0;
     padding: 0;
     background: blue;
-}
-#container{
-    width:1024px;
-    margin:auto;
-    border:1px solid;
 }
