@@ -25,6 +25,7 @@ grid-template-rows: 1;
 body{
     margin: 0;
     padding: 0;
+    background: blue;
 }
 #container{
     width:1024px;
